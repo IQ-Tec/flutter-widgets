@@ -24,7 +24,10 @@ Agrega `flutter_widgets` a tu `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_widgets: ^0.0.1
+  flutter_widgets:
+    git:
+      url: https://github.com/IQ-Tec/flutter-widgets.git
+      ref: v0.0.1
 ```
 
 Luego ejecuta:
