@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/pub/v/flutter_widgets?style=for-the-badge" alt="Pub Version">
-  <img src="https://img.shields.io/github/license/tu-usuario/flutter_widgets?style=for-the-badge" alt="License">
+  <img src="https://github.com/IQ-Tec/flutter_widgets?style=for-the-badge" alt="License">
 </p>
 
 Una colección completa de widgets Flutter reutilizables y personalizables diseñados para acelerar el desarrollo de aplicaciones móviles. Cada widget sigue las mejores prácticas de Flutter, es completamente personalizable y mantiene consistencia visual con Material Design 3.
