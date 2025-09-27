@@ -1,7 +1,11 @@
 name: flutter_widgets
-description: "A new Flutter package project."
+description: "Una colección completa de widgets Flutter reutilizables y personalizables para acelerar el desarrollo de aplicaciones. Incluye widgets de feedback, controles, formularios y layouts con diseños adaptativos y mejores prácticas integradas."
 version: 0.0.1
-homepage:
+license: MIT
+homepage: https://github.com/IQ-Tec//flutter_widgets
+repository: https://github.com/IQ-Tec//flutter_widgets
+issue_tracker: https://github.com/IQ-Tec//flutter_widgets/issues
+documentation: https://github.com/IQ-Tec//flutter_widgets#readme
 
 environment:
   sdk: ^3.9.2
